@@ -8,7 +8,7 @@ The dataset spans from FY 2019 to FY 2022, enabling multi-year trend analysis an
 ## 🔑 Key Deliverables
 I developed five distinct dashboards, each tailored to support a specific function within the organization:
 
-###1. 💰 Finance View
+### 1. 💰 Finance View
 YoY Revenue & Profit Growth
 
 Gross Margin Analysis
@@ -17,7 +17,7 @@ Cost vs Revenue Trends
 
 Key Financial KPIs
 
-###2. 📈 Sales View
+### 2. 📈 Sales View
 Regional & Product-wise Sales Analysis
 
 Top & Bottom Performing Customers
@@ -26,7 +26,7 @@ Sales Growth Trend by Channel
 
 Weekly and Monthly Sales Snapshot
 
-###3. 📣 Marketing View
+### 3. 📣 Marketing View
 Campaign Performance vs Sales
 
 Discount Effectiveness
@@ -35,7 +35,7 @@ Customer Acquisition Trend
 
 Product Popularity Heatmap
 
-###4. 🚚 Supply Chain View
+### 4. 🚚 Supply Chain View
 Inventory Turnover Ratio
 
 Stock Availability & Out-of-Stock Trends
@@ -44,7 +44,7 @@ Lead Time & Delivery Performance
 
 Supplier-wise Metrics
 
-###5. 🧠 Executive View
+### 5. 🧠 Executive View
 High-level KPIs across all departments
 
 Strategic Business Metrics
@@ -53,7 +53,7 @@ Cross-functional Drill-downs
 
 Yearly Performance Summary
 
-##🧠 Power BI Learnings & Skills Applied:
+## 🧠 Power BI Learnings & Skills Applied:
 Power Query: Cleaned, transformed, and combined raw data from multiple sources using ETL processes.
 
 Data Modeling: Established relationships between tables and created a star schema.
